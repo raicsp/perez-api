@@ -8,7 +8,7 @@ Every web request returns a *status code* thats says wether it was succesful or 
 |               Code                        |Description                    |
 -----------------------------------------------|-----------------------------|
 200          |OK            |
-|        403            |Forbidden         |
+| 403|Forbidden|
 | 404|Not Found|
 
 
